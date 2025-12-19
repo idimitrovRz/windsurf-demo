@@ -1,0 +1,15 @@
+# Cursor Rules Entry Point
+
+Follow these rules in order of priority. If there is a conflict, earlier files win.
+
+- @.cursor/rules/00-overview.md
+- @.cursor/rules/10-workflow.md
+- @.cursor/rules/20-typescript.md
+- @.cursor/rules/30-style-imports.md
+- @.cursor/rules/40-architecture.md
+- @.cursor/rules/50-pixi-engine.md
+- @.cursor/rules/60-spine.md
+- @.cursor/rules/70-animation.md
+- @.cursor/rules/80-performance.md
+- @.cursor/rules/90-testing.md
+- @.cursor/rules/95-security-data.md

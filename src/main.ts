@@ -1,31 +1,28 @@
-import { setEngine } from "./app/getEngine";
-import { LoadScreen } from "./app/screens/LoadScreen";
-import { MainScreen } from "./app/screens/main/MainScreen";
-import { userSettings } from "./app/utils/userSettings";
-import { CreationEngine } from "./engine/engine";
+import { createPixiApp } from "./engine/app/create-app";
+import { GameApp } from "./engine/app/game-app";
+import { logger } from "./shared/log";
 
-/**
- * Importing these modules will automatically register there plugins with the engine.
- */
-import "@pixi/sound";
-// import "@esotericsoftware/spine-pixi-v8";
+async function main(): Promise<void> {
+  logger.info("Starting slot game");
 
-// Create a new creation engine instance
-const engine = new CreationEngine();
-setEngine(engine);
-
-(async () => {
-  // Initialize the creation engine instance
-  await engine.init({
-    background: "#1E1E1E",
-    resizeOptions: { minWidth: 768, minHeight: 1024, letterbox: false },
+  const { app, destroy } = await createPixiApp({
+    width: 1280,
+    height: 720,
+    backgroundColor: 0x0f0f1e,
+    resolution: window.devicePixelRatio || 1,
   });
 
-  // Initialize the user settings
-  userSettings.init();
+  document.body.appendChild(app.canvas);
 
-  // Show the load screen
-  await engine.navigation.showScreen(LoadScreen);
-  // Show the main screen once the load screen is dismissed
-  await engine.navigation.showScreen(MainScreen);
-})();
+  const gameApp = new GameApp(app);
+  await gameApp.init();
+
+  window.addEventListener("beforeunload", () => {
+    gameApp.destroy();
+    destroy();
+  });
+}
+
+main().catch((error) => {
+  console.error("Failed to start game:", error);
+});

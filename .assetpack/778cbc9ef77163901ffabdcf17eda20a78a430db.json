@@ -1,0 +1,608 @@
+{
+    "assets": {
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets": {
+            "isFolder": true,
+            "metaData": {},
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1766073931591,
+                "duration": 3.9058329999998023,
+                "success": true
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}": {
+            "isFolder": true,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets",
+            "metaData": {
+                "m": true
+            },
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1766073931592,
+                "duration": 5.002874999999676,
+                "success": true
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/logo-white.svg": {
+            "isFolder": false,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "stats": {
+                "date": 1766073931592,
+                "duration": 14.87679100000014,
+                "success": true
+            },
+            "hash": "Wq9lMw"
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/logo-white.svg": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/logo-white.svg",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds": {
+            "isFolder": true,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "stats": {
+                "date": 1766073931594,
+                "duration": 2.7870410000000447,
+                "success": true
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds/bgm-main.mp3": {
+            "isFolder": false,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "stats": {
+                "date": 1766073931594,
+                "duration": 673.7796250000001,
+                "success": true
+            },
+            "hash": "IXGL8w"
+        },
+        ".assetpack/audio/main{m}/sounds/bgm-main.mp3": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds/bgm-main.mp3",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/sounds/bgm-main.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/main{m}/sounds/bgm-main.mp3",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/audio/main{m}/sounds/bgm-main.ogg": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds/bgm-main.mp3",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/sounds/bgm-main.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/main{m}/sounds/bgm-main.ogg",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds/sfx-hover.wav": {
+            "isFolder": false,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "stats": {
+                "date": 1766073931597,
+                "duration": 485.1157079999998,
+                "success": true
+            },
+            "hash": "P9yd"
+        },
+        ".assetpack/audio/main{m}/sounds/sfx-hover.mp3": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds/sfx-hover.wav",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/sounds/sfx-hover.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/main{m}/sounds/sfx-hover.mp3",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/audio/main{m}/sounds/sfx-hover.ogg": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds/sfx-hover.wav",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/sounds/sfx-hover.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/main{m}/sounds/sfx-hover.ogg",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds/sfx-press.wav": {
+            "isFolder": false,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "stats": {
+                "date": 1766073931597,
+                "duration": 484.06854099999964,
+                "success": true
+            },
+            "hash": "59LMfg"
+        },
+        ".assetpack/audio/main{m}/sounds/sfx-press.mp3": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds/sfx-press.wav",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/sounds/sfx-press.mp3": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/main{m}/sounds/sfx-press.mp3",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/audio/main{m}/sounds/sfx-press.ogg": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/sounds/sfx-press.wav",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/sounds/sfx-press.ogg": {
+            "isFolder": false,
+            "transformParent": ".assetpack/audio/main{m}/sounds/sfx-press.ogg",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}": {
+            "isFolder": true,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}",
+            "metaData": {
+                "tps": true
+            },
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "stats": {
+                "date": 1766073931597,
+                "duration": 96.28362500000003,
+                "success": true
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}/button.png": {
+            "isFolder": false,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {},
+            "hash": "33gC"
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}/icon-pause.png": {
+            "isFolder": false,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {},
+            "hash": "6xk80g"
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}/icon-settings.png": {
+            "isFolder": false,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {},
+            "hash": "xq0X7Q"
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}/rounded-rectangle.png": {
+            "isFolder": false,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {},
+            "hash": "fUycdg"
+        },
+        ".assetpack/texture-packer/main{m}/ui.png": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "nomip": true
+            },
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/compress/main{m}/ui.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/main{m}/ui.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true,
+                "mIgnore": true,
+                "nomip": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/ui.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/main{m}/ui.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true,
+                "mIgnore": true,
+                "nomip": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/compress/main{m}/ui.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/main{m}/ui.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true,
+                "mIgnore": true,
+                "nomip": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/ui.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/main{m}/ui.webp",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true,
+                "mIgnore": true,
+                "nomip": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/main{m}/ui.json": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/main{m}/ui.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/main{m}/ui.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/main{m}/ui.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/main{m}/ui.png.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/ui.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/main{m}/ui.png.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/main{m}/ui.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/main{m}/ui.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/main{m}/ui.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/main{m}/ui.webp.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/ui.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/main{m}/ui.webp.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer/main{m}/ui@0.5x.png": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}",
+            "metaData": {
+                "mIgnore": true,
+                "nomip": true
+            },
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/compress/main{m}/ui@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/main{m}/ui@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true,
+                "mIgnore": true,
+                "nomip": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/ui@0.5x.png": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/main{m}/ui@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true,
+                "mIgnore": true,
+                "nomip": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/compress/main{m}/ui@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/main{m}/ui@0.5x.png",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true,
+                "mIgnore": true,
+                "nomip": true
+            },
+            "transformData": {}
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/ui@0.5x.webp": {
+            "isFolder": false,
+            "transformParent": ".assetpack/compress/main{m}/ui@0.5x.webp",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true,
+                "mIgnore": true,
+                "nomip": true
+            },
+            "transformData": {}
+        },
+        ".assetpack/texture-packer/main{m}/ui@0.5x.json": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/main{m}/ui{tps}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/main{m}/ui@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/main{m}/ui@0.5x.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/main{m}/ui@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/main{m}/ui@0.5x.png.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/ui@0.5x.png.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/main{m}/ui@0.5x.png.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/texture-packer-compress/main{m}/ui@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer/main{m}/ui@0.5x.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        ".assetpack/json/main{m}/ui@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/texture-packer-compress/main{m}/ui@0.5x.webp.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/main/ui@0.5x.webp.json": {
+            "isFolder": false,
+            "transformParent": ".assetpack/json/main{m}/ui@0.5x.webp.json",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true,
+                "tps": true
+            },
+            "transformData": {
+                "page": 0
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/preload{m}": {
+            "isFolder": true,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets",
+            "metaData": {
+                "m": true
+            },
+            "inheritedMetaData": {},
+            "transformData": {},
+            "stats": {
+                "date": 1766073931607,
+                "duration": 0.06704199999967386,
+                "success": true
+            }
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/preload{m}/logo.svg": {
+            "isFolder": false,
+            "parent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/preload{m}",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {},
+            "stats": {
+                "date": 1766073931607,
+                "duration": 0.8076670000000377,
+                "success": true
+            },
+            "hash": "LmftHw"
+        },
+        "/Users/ivan.dimitrov/Workspaces/windsurf-demo/public/assets/preload/logo.svg": {
+            "isFolder": false,
+            "transformParent": "/Users/ivan.dimitrov/Workspaces/windsurf-demo/raw-assets/preload{m}/logo.svg",
+            "metaData": {},
+            "inheritedMetaData": {
+                "m": true
+            },
+            "transformData": {}
+        }
+    }
+}
